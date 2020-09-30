@@ -10,5 +10,6 @@ When to make commits and how to label:
 
 Cloning repositories and pushing code:
 
-Make sure to give collaborative shout-outs"
+Make sure to give collaborative shout-outs:
 - Krystyn Kibler is cool. 
+- Thanks Vincent Denef for bringing me into the world of bioinformatics. 
