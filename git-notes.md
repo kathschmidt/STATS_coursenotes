@@ -12,3 +12,4 @@ Cloning repositories and pushing code:
 
 Make sure to give collaborative shout-outs"
 - Krystyn Kibler is cool. 
+- Kathryn is an awesome new member to team McMahon.
