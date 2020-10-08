@@ -25,3 +25,10 @@ git branch -vv # see which branch you are working on
 git checkout new-branch-name # switch to new branch
 git branch # make sure it worked!
 ```
+
+### Using 'git revert'
+- If you make a mistake and accidentally commit and push do this...
+
+'''
+git revert -m 1 "7 digit commit code"
+'''
